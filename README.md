@@ -37,6 +37,5 @@ The app allows users to manage a collection of meals, view and filter them based
 
 ## 🖼️ Application Preview
 
-```markdown
-![Meal Tracker Screenshot](preview_1.jpg)
-```
+![Meal Tracker Screenshot](./preview_1.jpg)
+
